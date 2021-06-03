@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend in the country concerning the prorogation of the Parliament on Munday Jan. the 10th, 1680/81</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48171</idno><idno type="EEBO-CITATION">15667386</idno>
+  <idno type="VID">104328</idno>
+  <idno type="EEBO-PROQUEST">2240894164</idno>
+  
+            <idno type="STC">Wing L1649</idno>
+            <idno type="STC">ESTC R36355</idno>
+            <idno type="OCLC">15667386</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend in the country concerning the prorogation of the Parliament on Munday Jan. the 10th, 1680/81</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104328:1"/>
+            <head>A LETTER to a Friend in the COUNTRY, Concerning the Prorogation of the PARLIAMENT, On <hi>Munday Jan.</hi> the 10th 1680/81.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HEaring the dismal news of the Parliaments Proroga<g ref="char:EOLhyphen"/>tion much to my amazement, together with many others; especially considering the hazardous case of the Na<g ref="char:EOLhyphen"/>tion, and the stupendious Fears possessing the minds of the People, which by this Transaction are much aggravated, but the way to a calm is thorough Tempests: Truly Sir, It can't be imagined otherwise, then that the dissolution of the last Parliament was much to the loss and detriment of the Popish interest; this being very much cleared from the dross of unbyassed interest and principles of selve-love giv<g ref="char:EOLhyphen"/>ing motion to selfish ends. For Sir, It can't be denied but that amongst this last were many brave men of Estates, who endeavoured to maintain the Protestant Cause with dis-interessed Affections; As also to their utmost, bended their forces against the Roman Catholick Cause and Inte<g ref="char:EOLhyphen"/>rest, who neither were Worshippers of the Beast, or of his Image. Sir, Pray pardon me, let it be said of them, <hi>ad famam perpetuam,</hi> that they were men hating Popery, and all the wicked Tenets of the Romish Church, who hold it conformable to the Rules of Sanctity, to Murder others under the Notion of Hereticks, <hi>O nefas Infandum!</hi> But the Noble Gentlemen of our Parliament proved themselves favourers of the Hereticks, and their Noble Actings make it
+<pb facs="tcp:104328:2"/>evident they were the same sort: And indeed Sir, those who I durst averr (<hi>ab imo pectoris</hi>) cordially to endeavour the good of both King and Country. But Alas! After their honest endeavours and brisk Actings are now dismissed, but I can't but commend them, they stood it out, even when they were, I will not say, (<hi>in punctum mori</hi>) and at their last gasp, but perhaps in a fair way thereunto, they breathed out <hi>faithful to the Protestant Interest,</hi> and so departed; to the trouble of many, what end it may produce is past our knowledge. But the poor City is amazed, and sundry persons you know make sundry constructions, but however the end of all things is with God; and if it be for our good let us be thankful, but if not, let us hope, <hi>dabit Deus his quoque finem,</hi> they are not for ever, and the designs of our sweet tempered Prince, are <hi>nobis ignota,</hi> hidden from us: But let what will be our lot, let us endeavour to obtain sub<g ref="char:EOLhyphen"/>mission to the Divine pleasure. And indeed Sir, it's our duty to prepare for what may fall upon us, that we may not say we had no notice: God hath let out his Torch in the Heavens to be an object of the vision of our Eyes, and the serious contemplation and consideration of our minds, but we hope <hi>Babylon</hi> will fall, but there I desist at present; and so long as these honest and good Representatives were in the exercise of their Parliamentary power, they neither acted like Novices or Cowards, or like men byassed by base selfish interest, but purely for the love of their King &amp; Coun<g ref="char:EOLhyphen"/>try, to whom their Love proved so True and Faithful as to run thorough any difficulty though never so daring. In a Word Sir, they were men (thorough the Divine bene<g ref="char:EOLhyphen"/>diction of Almighty God) spirited for that Work for which they were appointed, and wherein they acted, and that like men, ay and wise men and not fools, but after all comes the heavy news of a Prorogation, but it is for ten days ac<g ref="char:EOLhyphen"/>cording to common report, and in the mean time let us be silent, and chearfully submit, and pray that God would then Graciously be pleased to put it into the heart of our King to let them Re-Assemble, and Sit prosperously to Set up the Protestant Interest, and to ruine the Anti-Christian, which would be to the Comfort of all good Protestants, as also of <hi>Sir,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Jan. the 11th. 1680/81.</date>
+               </dateline>
+               <signed>Your Servant in Willingness.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
